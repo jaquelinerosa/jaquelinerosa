@@ -1,4 +1,4 @@
-fact: ...<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
 - 💻 𝖨'𝗆 𝗌tudent Analysis and systems development - Fatec
 - 😍 In love with technology   
