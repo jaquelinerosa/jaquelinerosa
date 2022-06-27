@@ -2,7 +2,7 @@
 
 - 💻 𝖨'𝗆 𝗌tudent Analysis and systems development - Fatec
 - 😍 In love with technology   
-- 🧠  𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖧𝖳𝖬𝖫5/𝖢𝖲𝖲3/Java
+- 🧠  𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Java|Java EE| Jasper| Spring Boot| Angular| Microserviços Docker| Design Patterns
 - 🎮 Free time Counter Strike
 
 
