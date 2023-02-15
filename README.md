@@ -6,6 +6,7 @@
 
 
 - 🌱 Sempre em busca de conhecimento
+- 🌱 Always in search of knowledge
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
