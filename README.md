@@ -50,4 +50,4 @@
 </a> 
   <p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaquelinerosa&show_icons=true&locale=en&layout=compact" alt="jaquelinerosa" /></p>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinerosa&layout=compact&langs_count=7&theme=merko" alt="jaquelinerosa" /></p>
