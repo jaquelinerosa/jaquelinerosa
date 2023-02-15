@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jaqueline</h1>
 <h3 align="center">Uma desenvolvedora apaixonada por backend e frontend.</h3>
+<p> A developer passionate about backend and frontend.</p>
 
 
 
