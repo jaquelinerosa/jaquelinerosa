@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Atuamente aprendendo SpringBoot **Angular Js**
+- 🌱 Sempre em busca de conhecimento
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
